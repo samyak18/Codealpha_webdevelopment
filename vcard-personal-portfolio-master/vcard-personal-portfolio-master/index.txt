@@ -2,21 +2,18 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Kumar Samyak
+Kumar Samyak
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
-
+kumar.samyak018@gmail.com
 Phone
-+1 (213) 352-2795
-
+9155182054
 Birthday
-June 23, 1982
-
+18 april, 2004
 Location
 Sacramento, California, USA
 
@@ -121,13 +118,13 @@ Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corru
 
 My skills
 
-Web design
-80%
-Graphic design
+HTML
 70%
-Branding
+CSS
 90%
-WordPress
+UI/UX
+90%
+Java-script
 50%
 
 
